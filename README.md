@@ -1,6 +1,8 @@
 ### Hola 🙂, I'm John Muinde
 #### A.K.A. Snap
-<img src = "https://pin.it/219BrDd" alt="">
+
+[<img src='https://pin.it/219BrDd' alt='' width='500'>](https://www.pinterest.com/219BrDd)
+
 ## <u>About Me</u>
 - A very curious being
 - Ready and willing to learn
@@ -13,7 +15,7 @@
 
 
 - 🌱 I’m currently learning Software Engineering at ALX 
-- 📫 How to reach me: sn3pcity@gmail.com 
+- 📫 How to reach me: **sn3pcity@gmail.com** 
 - ⚡ Fun fact: I play basketball - Point/ Shooting Guard 
 
 ## Connect with me :
