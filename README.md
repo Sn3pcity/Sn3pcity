@@ -1,7 +1,7 @@
 ### Hola 🙂, I'm John Muinde
 #### A.K.A. Snap
 
-[<img src='https://pin.it/219BrDd' alt='' width='500'>](https://www.pinterest.com/219BrDd)
+[<img src='https://gfycat.com/actualneglectedemperorpenguin-the-matrix-laurence-fishburne-carrie-anne-moss' alt='' width='500'>]
 
 ## <u>About Me</u>
 - A very curious being
@@ -9,8 +9,7 @@
 - Open to any challenges
 
 ### Skills:
-- HTML
-- C
+- HTML C
 
 
 
