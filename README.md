@@ -1,7 +1,7 @@
 ### Hola 🙂, I'm John Muinde
-#### A.K.A. Snap
+Popularly known as **Snap**
 
-[<img src='https://gfycat.com/actualneglectedemperorpenguin-the-matrix-laurence-fishburne-carrie-anne-moss' alt='' width='500'>]
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Frkb&psig=AOvVaw0-h4KZqimdaLe9rIHhihVa&ust=1670101964151000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLC92OTs2_sCFQAAAAAdAAAAABAE' alt='' width='500'>
 
 ## <u>About Me</u>
 - A very curious being
