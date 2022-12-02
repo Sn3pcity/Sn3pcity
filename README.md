@@ -1,6 +1,6 @@
 ### Hola 🙂, I'm John Muinde
 #### A.K.A. Snap
-![Snap 😁](https://pin.it/219BrDd)
+<img src = "https://pin.it/219BrDd" alt="">
 ## <u>About Me</u>
 - A very curious being
 - Ready and willing to learn
