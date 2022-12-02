@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm  John Muinde
 #### Popularly **Snap**
-
-https://tenor.com/en-GB/view/hacker-computer-cyberpunk-hacking-dark-gif-20517262
+![](https://tenor.com/en-GB/view/coding-gif-25731151 )
 
 - Very curious
 - Ready & willing to learn
