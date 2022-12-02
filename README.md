@@ -1,7 +1,7 @@
 ### Hola 🙂, I'm John Muinde
 Popularly known as **Snap**
 
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Frkb&psig=AOvVaw0-h4KZqimdaLe9rIHhihVa&ust=1670101964151000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLC92OTs2_sCFQAAAAAdAAAAABAE' alt='' width='500'>
+![-](https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=2217383700)
 
 ## <u>About Me</u>
 - A very curious being
