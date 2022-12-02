@@ -1,20 +1,20 @@
 ### Hola 🙂, I'm John Muinde
 #### A.K.A. Snap
-(![Snap 😁](https://pin.it/219BrDd))
-
-A very curious being
-Ready and willing to learn
-Open to any challenges
+![Snap 😁](https://pin.it/219BrDd)
+## <u>About Me</u>
+- A very curious being
+- Ready and willing to learn
+- Open to any challenges
 
 ### Skills:
 - HTML
 - C
-- 
 
-- 🔭 I’m currently working on this page. 
+
+
 - 🌱 I’m currently learning Software Engineering at ALX 
 - 📫 How to reach me: sn3pcity@gmail.com 
-- ⚡ Fun fact: Basketball Player - Point Guard 
+- ⚡ Fun fact: I play basketball - Point/ Shooting Guard 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sn3pcity)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sn3pcity)  
