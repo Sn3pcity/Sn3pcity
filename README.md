@@ -1,5 +1,5 @@
 ### Hola 🙂, I'm John Muinde
-Popularly known as **Snap**
+
 
 ![-](https://steamcommunity.com/sharedfiles/filedetails/?l=koreana&id=2217383700)
 
